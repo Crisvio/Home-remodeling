@@ -1,6 +1,6 @@
 
 h3{
-    color:black;
+    color:white;
     text-align:left;
 }
 h1{
@@ -10,7 +10,7 @@ h1{
 }
 
 body{
-    background-color:black;
+    background-color:#355284;
     margin:0px;
 }
 h2{
@@ -19,10 +19,11 @@ h2{
 }
 .navbar{
   overflow: hidden;
-  background-color:white;
+  background-color:#344A71;
   position: fixed;
   top: 0;
-  width: 100%;   
+  width: 100%;
+    height:80px;
 }
 .pics{
     margin:1px;
