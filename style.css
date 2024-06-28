@@ -1,6 +1,6 @@
 
-h5{
-    color:lightyellow;
+h3{
+    color:black;
     text-align:left;
 }
 h1{
@@ -11,6 +11,7 @@ h1{
 
 body{
     background-color:black;
+    margin:0px;
 }
 h2{
     color:white;
@@ -18,7 +19,7 @@ h2{
 }
 .navbar{
   overflow: hidden;
-  background-color:black;
+  background-color:white;
   position: fixed;
   top: 0;
   width: 100%;    
